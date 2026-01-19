@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonStarveWikiTranslator", "DonStarveWikiTranslator\DonStarveWikiTranslator.csproj", "{96496104-00CE-4BD6-BAFE-253517CBB54B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96496104-00CE-4BD6-BAFE-253517CBB54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96496104-00CE-4BD6-BAFE-253517CBB54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96496104-00CE-4BD6-BAFE-253517CBB54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96496104-00CE-4BD6-BAFE-253517CBB54B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC4674B-5070-46A6-ACBB-9765F2CD2E14}
+	EndGlobalSection
+EndGlobal

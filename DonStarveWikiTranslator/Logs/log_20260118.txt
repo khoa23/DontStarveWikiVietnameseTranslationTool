@@ -1,0 +1,30 @@
+[2026-01-18 23:04:26] [MainForm] User clicked 'Sync Database' button.
+[2026-01-18 23:04:26] Fetching missing articles (limit: 50, forceRefresh: True)...
+[2026-01-18 23:04:30] Saved batch of 25 articles to database
+[2026-01-18 23:04:32] Saved batch of 15 articles to database
+[2026-01-18 23:04:32] Found 40 missing articles from API
+[2026-01-18 23:04:32] Fetching outdated articles (limit: 50, forceRefresh: True)...
+[2026-01-18 23:04:32] Checking 50 English articles in batches...
+[2026-01-18 23:04:35] Found 20 outdated articles total
+[2026-01-18 23:05:22] [MainForm] User clicked 'Sync Database' button.
+[2026-01-18 23:05:22] Fetching missing articles (limit: 500, forceRefresh: True)...
+[2026-01-18 23:05:32] Saved batch of 25 articles to database
+[2026-01-18 23:05:34] Saved batch of 25 articles to database
+[2026-01-18 23:05:36] Saved batch of 25 articles to database
+[2026-01-18 23:05:38] Saved batch of 25 articles to database
+[2026-01-18 23:05:40] Saved batch of 25 articles to database
+[2026-01-18 23:05:42] Saved batch of 25 articles to database
+[2026-01-18 23:05:44] Saved batch of 25 articles to database
+[2026-01-18 23:05:46] Saved batch of 25 articles to database
+[2026-01-18 23:05:48] Saved batch of 25 articles to database
+[2026-01-18 23:05:50] Saved batch of 25 articles to database
+[2026-01-18 23:05:51] Saved batch of 25 articles to database
+[2026-01-18 23:05:53] Saved batch of 25 articles to database
+[2026-01-18 23:05:54] Saved batch of 25 articles to database
+[2026-01-18 23:05:56] Saved batch of 25 articles to database
+[2026-01-18 23:05:58] Saved batch of 25 articles to database
+[2026-01-18 23:06:00] Saved batch of 25 articles to database
+[2026-01-18 23:06:00] Found 400 missing articles from API
+[2026-01-18 23:06:00] Fetching outdated articles (limit: 500, forceRefresh: True)...
+[2026-01-18 23:06:01] Checking 500 English articles in batches...
+[2026-01-18 23:06:40] Found 220 outdated articles total

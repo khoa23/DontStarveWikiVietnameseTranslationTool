@@ -1,0 +1,128 @@
+[2026-01-18 22:30:50] Fetching missing articles (limit: 100, forceRefresh: False)...
+[2026-01-18 22:30:56] Fetching missing articles (limit: 100, forceRefresh: True)...
+[2026-01-18 22:31:27] Error syncing Advert: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Affinity: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Aggro: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Air Unfreshener: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alchemy Engine: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alchemy Engine/DST: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alchemy Engine Burnt: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Algae: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Aggro: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing All Juicy Berries: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Air Unfreshener: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing All eggs: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alchemy Engine: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alchemy Engine/DST: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alloy: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Alchemy Engine Burnt: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Aloe Seeds: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Algae: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing Altar of Gnaw: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:28] Error syncing All Juicy Berries: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Alter: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing All eggs: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Alto Shell Bell: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Alloy: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Amberosia: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Aloe Seeds: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ammo Hoarder: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Altar of Gnaw: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ammo Pouch: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Alter: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ammo Smith: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Alto Shell Bell: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Amulet: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Amberosia: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing An Eye for An Eye: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ammo Hoarder: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Anchor: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ammo Pouch: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Anchor Figure: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ammo Smith: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Amulet: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Anchor Figure Sketch: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Anchor Kit: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing An Eye for An Eye: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:29] Error syncing Ancient: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Altar: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Anchor: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Archive: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Anchor Figure: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Civilization: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Anchor Figure Sketch: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Echoes: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Anchor Kit: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Echoes: Phase Two: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Face: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Altar: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Archive: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Fence: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Civilization: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Fuelweaver Figure: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Fuelweaver Figure (Marble): Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Echoes: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Guard Post: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Echoes: Phase Two: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Guardian's Horn: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:30] Error syncing Ancient Face: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian/DST: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Fence: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian Figure: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Fuelweaver Figure: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian Figure (Marble): Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Herald: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Fuelweaver Figure (Marble): Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Key Gorge: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guard Post: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Kiln: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian's Horn: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Lunarune Stone: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian/DST: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian Figure: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Mask: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Guardian Figure (Marble): Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Moon Statue: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Herald: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Mural: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Key Gorge: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Obelisk: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Kiln: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:31] Error syncing Ancient Orchestrina: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:32] Error syncing Ancient Lunarune Stone: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:32] Error syncing Ancient Mask: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:32] Error syncing Ancient Moon Statue: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:32] Error syncing Ancient Mural: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:32] Error syncing Ancient Obelisk: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:31:32] Error syncing Ancient Orchestrina: Response status code does not indicate success: 429 (Too Many Requests).
+[2026-01-18 22:34:42] Fetching missing articles (limit: 100, forceRefresh: False)...
+[2026-01-18 22:34:47] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:34:48] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:34:50] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:34:52] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:34:52] Found 80 missing articles from API
+[2026-01-18 22:35:10] Fetching missing articles (limit: 100, forceRefresh: True)...
+[2026-01-18 22:35:13] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:35:15] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:35:16] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:35:18] Error syncing batch: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:35:18] Found 80 missing articles from API
+[2026-01-18 22:35:18] Fetching outdated articles (limit: 50, forceRefresh: True)...
+[2026-01-18 22:36:24] Checking 6100 English articles in batches...
+[2026-01-18 22:36:25] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:26] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:28] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:29] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:31] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:32] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:34] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:35] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:37] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:38] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:41] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:43] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:44] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:46] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:48] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
+[2026-01-18 22:36:50] Error batch checking articles: An error occurred while updating the entries. See the inner exception for details.
